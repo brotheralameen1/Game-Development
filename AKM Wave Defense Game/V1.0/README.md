@@ -1,4 +1,4 @@
-This will be Version 1 of the release of the AKM Wave Defense Game. The EXE and AppImage File will be provided from this link: https://brotheralameen1.itch.io/akm-wave-defense-game
+This will be Version 1 of the release of the AKM Wave Defense Game. The EXE and AppImage File will be provided from this link: https://brotheralameen1.itch.io/akm-wave-defense-game, this had to be done because the size of these games are larger than 25 MB and cannot be uploaded to GitHub.
 
 The Cordova Source Code will be provided from here on GitHub Directly to download.
 
