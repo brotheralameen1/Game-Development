@@ -1,0 +1,1 @@
+This section contains the Cordova Source Code for the AKM Wave Defense Game V1.0 for Windows and Linux. This Source Code can be extracted and used to compile the game to be used on any device. You can analyse the code but you'll require both the Cordova Library and Code Editor like Notepad++
