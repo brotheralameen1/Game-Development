@@ -7,3 +7,6 @@ In this game, all enemies have 3 Lives and they shouldn't reach the inverted cro
 To run the game on Linux. Simply run the program, if the program doesn't run then it's recommended you open Terminal in the directory of the installation and run the code chmod +x "App name.AppImage" then press enter and then try run it or if you're on Ubuntu then login as root and right click the application and click on properties and make sure "Run the program as executable" is enabled.
 
 To run the game on Linux. Simply run the installation Wizard and install the game then run the game.
+
+
+This same game download information can be accessed from here: https://brotheralameen1.itch.io/akm-wave-defense-game
