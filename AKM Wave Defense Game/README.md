@@ -10,3 +10,5 @@ To run the game on Linux. Simply run the installation Wizard and install the gam
 
 
 This same game download information can be accessed from here: https://brotheralameen1.itch.io/akm-wave-defense-game
+
+For release documentation, please check this link: https://github.com/brotheralameen1/Game-Development/releases/tag/Wave_Defense
