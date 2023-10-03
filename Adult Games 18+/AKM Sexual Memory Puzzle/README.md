@@ -6,4 +6,6 @@ The release for this game will be web-based and final release. After this, there
 
 You can check the Source Code of the game as well on the Source Code Folder.
 
+For release documentation, you can view this link: https://github.com/brotheralameen1/Game-Development/releases/tag/Sexual_Memory
+
 Thanks and Peace.
