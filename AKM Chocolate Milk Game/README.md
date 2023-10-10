@@ -7,3 +7,5 @@ To play this game, you'd require some good headphones and to be playing at durin
 This game has 7 Levels and pretty high level graphics so be sure you have time during the night to play this game when you can. Peace.
 
 For Release Information, Please check this link for release documentation: https://github.com/brotheralameen1/Game-Development/releases/tag/Chocolate_Game
+
+You can check the game itself out from this link as well as download the game and play if you'd like: https://brotheralameen1.itch.io/akm-chocolate-milk-game
