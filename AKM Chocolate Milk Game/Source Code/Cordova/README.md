@@ -1,0 +1,1 @@
+For better experience, please add the . to the beginning of monaca folder, monacaignore and gitignore on Linux, or mark these files as hidden on Windows, since these files and folder is meant to be hidden.
