@@ -1,0 +1,22 @@
+{
+    "name": "akm_32chocolate_32milk_32game",
+    "displayName": "AKM Chocolate Milk Game",
+    "version": "1.0.0",
+    "description": "AKM Chocolate Milk Game",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "Alameen Karim Merali",
+    "devDependencies": {
+        "cordova-plugin-ionic-webview": "5.0.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-ionic-webview": {}
+        }
+    }
+}
