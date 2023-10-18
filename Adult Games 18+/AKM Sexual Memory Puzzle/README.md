@@ -8,4 +8,6 @@ You can check the Source Code of the game as well on the Source Code Folder.
 
 For release documentation, you can view this link: https://github.com/brotheralameen1/Game-Development/releases/tag/Sexual_Memory
 
+To play this game please download and extract the ZIP File, Upload it to your Web Server then play from there.
+
 Thanks and Peace.
