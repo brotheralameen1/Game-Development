@@ -1,0 +1,1 @@
+This folder contains the Cordova Source Code of the AKM 3D Sexual Runner Game including the GLB Files that have been made using Blender. Please consider contributing donations to the developer and leave credit to the developer as explained if you'll be editing or taking the source code to deploy for other devices or making the game better. Thanks.
