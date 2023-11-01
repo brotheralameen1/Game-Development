@@ -5,3 +5,6 @@ If you're a developer and would like to take the source code of the game to buil
 The games download link itself will be provided once the game is published to Itch IO Website, the games setup can't be uploaded here because of GitHubs File Size Restrictions.
 
 For the release documentation of the game, please check this link: https://github.com/brotheralameen1/Game-Development/releases/tag/3D_Car_Coin_Chase
+
+You can check the download file for the game from here: https://brotheralameen1.itch.io/akm-3d-car-coin-chase-game
+Link had to be provided due to GitHub Restrictions.
