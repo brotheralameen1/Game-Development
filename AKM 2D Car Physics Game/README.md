@@ -3,3 +3,5 @@ This will be my last game that I will ever program as I will have to focus on ot
 The Source Code of the game will be provided here but the official releases of the game will be published to the developers Itch IO Page and the link provided here due to size limitations that GitHub has.
 
 For release information, please check this page: https://github.com/brotheralameen1/Game-Development/releases/tag/2D_Car_Physics
+
+You can access and download the game from here: https://brotheralameen1.itch.io/akm-2d-car-physics-game
